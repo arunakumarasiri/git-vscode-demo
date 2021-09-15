@@ -6,3 +6,5 @@ SFG_f = IR_f + vis_f
 #IR_wave = C/IR_f
 SFG_wave = (C / SFG_f)*10**9 
 print (f'The corresponding SFG wavelength is {SFG_wave} nm')
+
+# new comment
